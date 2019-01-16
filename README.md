@@ -1,3 +1,8 @@
+# [슬로워크 프론트엔드 입사지원 과제]
+index.html 파일 열어서 보시면 됩니다. 매우 미흡하지만 잘 봐주시길 부탁립니다. 감사합니다.
+* 부트스트랩 테마/템플릿 적용
+* 반응형 웹 적용
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
